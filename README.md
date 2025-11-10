@@ -19,28 +19,37 @@ Protects against spam and injection using sanitization and WordPress nonces.
 2. Activate the plugin via the Plugins menu.
 3. Add the shortcode [secure_contact_form] to any page or post.
 
----
-
-### Screenshots
-
-1. Frontend Contact Form  
-   ![Frontend Contact Form](assets/Screenshot-frontend.jpeg)
-
-2. After Submission (Success Message)  
-   ![After Submission](assets/Screenshot-after-submission.jpeg)
-
-3. Backend Settings Page  
-   ![Backend Settings](assets/Screenshot-backend-settings.jpeg)
-
-4. Plugin Active in Dashboard  
-   ![Plugin Active](assets/Screenshot-plugin-active.jpeg)
-
----
 
 ## Contributing
 Pull requests are welcome!
 
----
+## Tech Stack
+ 
+- PHP (OOP & WordPress standards)
+
+- WordPress Hooks & Shortcodes
+
+- ySQL (via $wpdb)
+
+- JavaScript (success message fades in)
+
+## Future Enhancements
+
+- Pagination and search in admin panel.
+
+- Optional reCAPTCHA integration.
+
+- Custom email templates for notifications
 
 ## 📄 License
-GPLv2 or later © 2025 Francis Righteous
+ © 2025 Francis Righteous
+
+ ### 📫 Connect With Me
+- [🔗 Upwork Profile](https://www.upwork.com/freelancers/~01c7ea715df4b3409f?companyReference=1899410009349615053&mp_source=share)
+- [💼 LinkedIn Profile](https://www.linkedin.com/in/righteous-francis-477b13358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 📧 Email:francisrighteous539@gmail.com
+
+---
+
+> *I code with clarity and design with purpose.*
+> LETS GET TO WORK!!
